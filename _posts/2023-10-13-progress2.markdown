@@ -1,0 +1,41 @@
+---
+layout: post
+title:  "Post 2: Progress as of 2023-10-13"
+date:   2023-10-13 01:17:33 -0400
+categories: jekyll update
+---
+
+## Need, Constraint and Criteria
+After establishing the problem space, the next step was to finalize the needs, constraints and criteria for the capstone.
+
+### Need
+From our research, we found that healthy sleep encompasses three major things. One is how much sleep you get. Another is **sleep quality** — that you get uninterrupted and refreshing sleep. The last is a consistent sleep schedule. We noticed that while how much sleep one gets and keeping up with a consistent sleep schedule is largely **deterministic** (obviously, a working adult who starts work at 9am will get more sleep if they sleep earlier and that ties in directly to keeping up with a consistent sleep schedule), getting uninterrupted sleep is much more **random**. And a lot of this randomness is from the different environmental conditions we face while being asleep. In more severe cases, this is called **environmenal sleep disorder**.
+
+Furthermore, it was estimated that in the US workforce, there is an estimated **$44.6 billion in lost productivity** linked to poor sleep. So there is a huge need for solutions to better sleep quality for working adults!
+
+And currently in the market, there really isn't any devices that primary focus on finding these important correlations that may be affecting many working adults. For example:
+- **Wearables** such as the Fitbit and Apple Watch which primarily focuses on sleep tracking but have limited environmental monitoring capabilities as well as performing correlation analysis between the two.
+- **Smart Home Devices** such as Google Nest are the opposite where environmental monitoring is the primary focus, with a focus on temperature and lighting. Sleep tracking capabilities are either absent or rudimentary.
+- **Mobile Application** offer comprehensive sleep tracking but lack integrated environmental sensors and in so are heavily dependent on user input for sleep data.
+
+### Constraint
+Given that the IoT device would need a way to run through the night, be portable to be placed in different rooms as needed, the following constraints were created:
+- **Size and portability**. Device must be designed to conveniently place in any bedroom on a leveled surface and be moved around different rooms, the device is taking 16cm x 16cm area and height of 20cm.
+- **Privacy and security**. Device must address the privacy concerns regarding sleep-related data by keeping data secure and used only for correlation analysis.
+- **Power**. Power supply runs on battery and should last up to 12 hours before recharging.
+
+
+### Criteria
+With our IoT device, what's arguably the most important criteria is data completeness and data accuracy. In order to best find correlations and perform studies, the data being captured is extremely important. Data completeness in this context refers to a design which does not impose any limitations on the metrics that are needed for analysis and data accuracy refers to a design which will cature data accurately.
+
+So based on this, the following list was created:
+- **Data Accuracy**. Calibrated sensors must capture brightness, noise and temperature and exhibit a maximum deviation of 5% for each.
+- **Data Completeness**. Sampling period for collecting noise and light must be at least 1 second (to capture rapid changes in lighting) and 60 seconds for temperature (since temperature in a room tend not to fluctuate drastically).
+- **Usability & Comfort**. Devices be both be user-friendly and convenient with minimal configurations and monitoring. The device should be able to just work in the background. Devices should not cause any discomfort while asleep or interfere with sleep in any way.
+- **Correlation Analysis**. Application must keep at least 30 days of historic data for correlation analysis. Then correlation analysis should identify meaning correlations using statistical methods to find relationships between environment condition and sleep quality metrics and identify the magnitude of correlation.
+
+
+
+[jekyll-docs]: https://jekyllrb.com/docs/home
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-talk]: https://talk.jekyllrb.com/
