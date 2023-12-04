@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Post 7: Progress as of 2023-11-20"
+date:   2023-11-20 01:17:33 -0400
+categories: jekyll update
+---
+
+## FDP - Final Design Presentation 
+At this point, most of the work had been complete. For the FDP, the group worked together to create the powerpoint presentation, putting in all the details and work that had been created in the previous weeks.

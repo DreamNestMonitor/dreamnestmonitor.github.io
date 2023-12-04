@@ -1,0 +1,30 @@
+---
+layout: post
+title:  "Post 6: Progress as of 2023-11-15"
+date:   2023-11-15 01:17:33 -0400
+categories: jekyll update
+---
+
+## Focus on Design Cont. 
+This week, the group continued to work on the implementation of the design.
+
+### Software and Controls
+Justifications were made for the high level design presented in the previous week, justifying the use of the microcontroller and microprocessor from the software perspective as well as why various network protocols were used and why a relational database was used for the design.
+
+Additionally, the initial database was setup using MySQL with a basic schema structure. In the future, many thing would need to be done using this database including creating a more thorough schema with primary and foreign keys, constraints, views and maybe even indexes for better query performance.
+
+### Circuits
+
+### Mechanical Design
+After completing the basic 3D mechanical model, details such as thickness and physical stability of the device using the centre of mass were done to justify the model.
+
+<p align="center">
+  <img src="/images/thickness.png" alt="Thickness of model"/>
+</p>
+
+<p align="center">
+  <img src="/images/stability.jpg" alt="Physical stability"/>
+</p>
+
+
+### Sensors and Actuators 

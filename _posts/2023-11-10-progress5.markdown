@@ -6,3 +6,24 @@ categories: jekyll update
 ---
 
 ## Focus on Design
+As this point in the course, the group began to focus on the details and implementation of the solution chosen from the design selection matrix.
+
+### Software and Controls 
+An initial high level design was created as shown below to visualize the data flow and to see how the different components (client, server, iot devices) talk to each other.
+
+<p align="center">
+  <img src="/images/highleveldesign.png" alt="High Level Software Design"/>
+</p>
+
+At this point, no real work had been done on the software end and justifications are still needed for the design. For example, why did we choose a relational SQL database? Why did we use MQTT and Web Sockets?
+
+### Circuits
+
+### Mechanical Design
+A simple 3D model was created to visualize what the device would look like.
+
+<p align="center">
+  <img src="/images/mechmodel.png" alt="3D Mechanical Model"/>
+</p>
+
+### Sensors and Actuators

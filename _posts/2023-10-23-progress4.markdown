@@ -19,3 +19,17 @@ For this week, the group focused on creating and presenting the PDP. The PDP req
 The first 5 topics including the design selection matrix were already addressed incrementally throughout the previous weeks. So besides, formatting and making a presentation, the only new thing that had to be done was the patent search. 
 
 ### Patent Search
+- System and Method for Sleep Environment Management is a system that can analyze a user's sleep data such as sleep stages, hypnograms, sleep scores, mind recharge scores and body scores via sensors such as non-contact motion sensors. It also contains sensors to detect and collect data of the environment such as brightness, temperature and air quality.
+<p align="center">
+  <img src="/images/patent1.png" alt="Patent 1"/>
+</p>
+
+- Device and method for improving sleep comfort degree and air conditioner​ is a system that is able to monitor a user's sleep data, able to detect and change the air quality simultaneously based on the user's current sleep status.
+<p align="center">
+  <img src="/images/patent2.png" alt="Patent 2"/>
+</p>
+
+- Sleep enhancement in an hvac system is a system that is connected to the user’s house hvac system. Which can adjust the timing of the temperature profile is advanced to cause room temperature to decrease before the natural decrease in body temperature is expected to occur, thereby helping lead a person into sleep without the use of pharmaceuticals or other artificial sleeping aids.
+<p align="center">
+  <img src="/images/patent3.png" alt="Patent 3"/>
+</p>
