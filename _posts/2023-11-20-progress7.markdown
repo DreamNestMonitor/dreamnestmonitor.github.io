@@ -6,4 +6,6 @@ categories: jekyll update
 ---
 
 ## FDP - Final Design Presentation 
-At this point, most of the work had been complete. For the FDP, the group worked together to create the powerpoint presentation, putting in all the details and work that had been created in the previous weeks.
+The last post for this term. We started this week by creating the powerpoint presentation, putting in all the details and work that had been created in the previous weeks. Addtionally, we practiced for the presentation to ensure we didn't go over the 10 minute mark. At this point, the software design is mostly complete and is ready for implementation as well as the electrical and mechanical design.
+
+Currently, we are looking at parts to buy as well as a FitBit to start parsing sleep quality reports to feed to the database server. Also after presenting the FDP, we are currently working on completing the Final Design Report to wrap up all deliverables for MTE 481.

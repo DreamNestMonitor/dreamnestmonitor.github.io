@@ -13,7 +13,7 @@ Justifications were made for the high level design presented in the previous wee
 
 Additionally, the initial database was setup using MySQL with a basic schema structure. In the future, many thing would need to be done using this database including creating a more thorough schema with primary and foreign keys, constraints, views and maybe even indexes for better query performance.
 
-### Circuits
+### Circuits & Battery Consumption
 In the previous week, the schematic diagram for the circuit was drawn. This week, for the analysis, power consumption was calculated. This was an important step as we want our IoT device to run on battery for portability and need to ensure that battery lasts for at least roughly 12 hours.
 
 <p align="center">

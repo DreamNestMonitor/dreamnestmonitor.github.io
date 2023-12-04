@@ -26,7 +26,9 @@ The schematic diagram of the circuit was drawn.
 In this case all sensors are controller by the microcontroller, all components are connected to battery and ground.
 
 ### Mechanical Design
-A simple 3D model was created to visualize what the device would look like.
+A simple 3D model was created to visualize what the device would look like. The prototype was divided into three parts, the top section is a cone shape, the middle section is a cylinder, the bottom section is a cuboid shape.
+
+The reason for the cone shape is that, we can place 4 light sensors on the slant of the cone, so that they are pointing up to receive light easily. The reasons of the cylinder and the cuboid shapes at middle and bottom is due to portability, a shape like this allows an adult to hold the device with both hands easily, either grabbing the bottom section horizontally, or holding the middle part vertically.
 
 <p align="center">
   <img src="/images/mechmodel.png" alt="3D Mechanical Model"/>

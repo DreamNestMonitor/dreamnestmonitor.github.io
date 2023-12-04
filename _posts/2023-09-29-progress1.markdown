@@ -9,8 +9,9 @@ categories: jekyll update
 
 Because of group conflicts, we were a bit late with getting to the problem formulation. In our first meeting with Professor Dr. Tung, we proposed two main problems space for our capstone project:
 
-1. **Sleep tracking device to correlate sleep quality and environmental conditions**. This problem focused on working adults in urban areas where quality of sleep may be affected because of environmental conditions like light, noise and hot temperatures. The goal of the capstone project to tackle this problem would then be to create an IoT device to capture metrics on both sleep quality of the user and their environmental conditions to perform statistical correlation analysis to provide insights and recommendations.  
-2. **Franks Part Here**.
+1. **Sleep Tracking Device** to correlate sleep quality and environmental conditions. This problem focused on working adults in urban areas where quality of sleep may be affected because of environmental conditions like light, noise and hot temperatures. The goal of the capstone project to tackle this problem would then be to create an IoT device to capture metrics on both sleep quality of the user and their environmental conditions to perform statistical correlation analysis to provide insights and recommendations.  
+2. **Autonomous Mobile Robot**. In the contemporary urban lifestyle, there is a growing need for intelligent and efficient solutions to handle domestic tasks. A crucial focus in this regard is the upkeep of hygienic living environments, with a specific emphasis on floor cleaning. The objective of the capstone project is to develop an Autonomous Mobile Robot capable of effectively cleaning floors and other flat surfaces.
+
 
 ## Feedback from Professor
 Dr. Tung approved of the first problem space as our group had much stronger evidence of its need and stakeholders. The problem space itself also seemed more appealing as poor sleep quality is something that many are able to relate to. Thus, our group decided to proceed with the first problem.
