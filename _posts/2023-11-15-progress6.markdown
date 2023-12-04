@@ -14,6 +14,11 @@ Justifications were made for the high level design presented in the previous wee
 Additionally, the initial database was setup using MySQL with a basic schema structure. In the future, many thing would need to be done using this database including creating a more thorough schema with primary and foreign keys, constraints, views and maybe even indexes for better query performance.
 
 ### Circuits
+In the previous week, the schematic diagram for the circuit was drawn. This week, for the analysis, power consumption was calculated. This was an important step as we want our IoT device to run on battery for portability and need to ensure that battery lasts for at least roughly 12 hours.
+
+<p align="center">
+  <img src="/images/power.png" alt="Thickness of model"/>
+</p>
 
 ### Mechanical Design
 After completing the basic 3D mechanical model, details such as thickness and physical stability of the device using the centre of mass were done to justify the model.
@@ -26,5 +31,7 @@ After completing the basic 3D mechanical model, details such as thickness and ph
   <img src="/images/stability.jpg" alt="Physical stability"/>
 </p>
 
-
 ### Sensors and Actuators 
+Raspberry Pi 4 and Arduino Uno were selected for Microprocessor and Microcontroller. the project also requires 4 light sensors, 1 temperature sensor and 1 noise level sensor. 
+
+Raspberry Pi 4 requires three AA batteries, Arduino Uno and other electrical components will use two 9V batteries. All batteries can stay active for longer than 14 hours.
