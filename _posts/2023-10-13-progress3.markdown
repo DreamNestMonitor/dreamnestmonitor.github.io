@@ -5,4 +5,17 @@ date:   2023-10-13 01:17:33 -0400
 categories: jekyll update
 ---
 
-## Specification and Alternative Designs 
+## Specification
+- **User Interface (UI)**. Present sleep quality and environmental condition metrics through graphs and numerical values. Present visualizations of correlations between different metrics such that user can make informed conclusions while providing our own feedback and recommendations. 
+- **Sensor Specificiation**. For the environmental sensors, temperature sensor, light sensor and noise sensor. For the sleep quality sensors, the following are good (but not limited to) accelerometer (movement tracking sensor), sensors for heartbeat, sleep stages and restlessness.
+- **Data Collection**. IoT device must collect both sleep quality and environment condition metrics as time-series (timestamped) data continuously for correlation analysis. 
+- **Correlation Analysis**. Software server/backend performs correlation analysis using the database on the server storing the data collected from sensors and find magnitudes of correlations between each metric.  
+
+## Alternative Designs
+Our group came up with three different designs then compared the designs using the design selection matrix based off our constraints and criteria defined in the previous weeks.
+
+1. **Design A**. This design uses two devices for capturing environmental conditions and sleep quality respectively. The first device capturing environmental conditions is an IoT device using an Arduino Uno as the microcontroller and a Raspberry Pi as the microprocessor to control the sensors and forward data to the server. The second device is a Fitbit. Design A piggybacks on using a Fitbit to capture sleep quality metrics and its sensors as it can accurately track heartrate, restlessness and uses algorithms to estimate sleep stages such as light, deep and REM cycles.
+2. **Design B**. This design is an all-in-one compact device for detecting and monitoring both sleep quality and environment conditions. The device is shaped like a watch, the surface of the watch will be used to collect the data of the environment such as noise, light and temperature, the face that is attached to user's skin will detect body temperature and heartrate for metrics on sleep quality via sensors.
+3. **Design C**. This design is also an all-in-one device, that the device will be placed to the wall or bedframe, it uses a camera / computer vision to detect user’s restlessness and movement while sleeping, it also collects the data from the environment, such as noise, light and temperature. Then the device’s analysis will be based on the intensity of user’s motion and the environment data.
+
+## Design Selection Matrix
