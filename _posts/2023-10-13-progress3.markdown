@@ -19,3 +19,8 @@ Our group came up with three different designs then compared the designs using t
 3. **Design C**. This design is also an all-in-one device, that the device will be placed to the wall or bedframe, it uses a camera / computer vision to detect user’s restlessness and movement while sleeping, it also collects the data from the environment, such as noise, light and temperature. Then the device’s analysis will be based on the intensity of user’s motion and the environment data.
 
 ## Design Selection Matrix
+<p align="center">
+  <img src="/images/designmatrix.png" alt="Design Selection Matrix"/>
+</p>
+
+So based on the Design Selection Matrix, the group decided to go with Design A.

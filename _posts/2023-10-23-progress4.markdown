@@ -6,3 +6,16 @@ categories: jekyll update
 ---
 
 ## PDP - Preliminary Design Presentation 
+For this week, the group focused on creating and presenting the PDP. The PDP required the following for the presentation:
+- Need
+- Goal and Objectives
+- Specifications
+- Constraints and Criteria
+- Alternate Design Solutions
+- Patent Search (at least 3 patents) – Relative merits and demerits
+– Is your design Patentable?
+- Design Selection Matrix
+
+The first 5 topics including the design selection matrix were already addressed incrementally throughout the previous weeks. So besides, formatting and making a presentation, the only new thing that had to be done was the patent search. 
+
+### Patent Search

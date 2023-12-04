@@ -33,6 +33,7 @@ So based on this, the following list was created:
 - **Data Completeness**. Sampling period for collecting noise and light must be at least 1 second (to capture rapid changes in lighting) and 60 seconds for temperature (since temperature in a room tend not to fluctuate drastically).
 - **Usability & Comfort**. Devices be both be user-friendly and convenient with minimal configurations and monitoring. The device should be able to just work in the background. Devices should not cause any discomfort while asleep or interfere with sleep in any way.
 - **Correlation Analysis**. Application must keep at least 30 days of historic data for correlation analysis. Then correlation analysis should identify meaning correlations using statistical methods to find relationships between environment condition and sleep quality metrics and identify the magnitude of correlation.
+- **Cost Effectiveness**. Device and software application should be cost effective, with affordability in mind for user adoption.
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
