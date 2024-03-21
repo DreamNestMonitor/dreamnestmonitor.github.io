@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "Post 11: Progress as of 2024-02-27"
+date:   2024-02-27 01:17:33 -0400
+categories: jekyll update
+---
+
+## Mechanical & Electrical 
+TODO[frank]
+
+## Software
+At this point, the applications were deployed instead of running everything on the local device. The deployment was done using the Railway application to deploy a MySQL database, the Java Spring Boot backend and the JavaScript React frontend.
+
+Also more work was done on the arduino and raspberry pi side. Serial communication was used to connect the arduino uno to the raspberry pi. The arduino was coded to pick up readings from its temperature, noise and light sensor every second and sending it via a serial write as a JSON message. Then on the raspberry pi, a python script was written that would read from the serial port and send batch requests to the deployed server. The python script was configured to be a linux system service such that it would start running on bootup and while it's powered on.
+
+Some things left to do is to finalize the script to parse the FitBit reports to get sleep quality data to the backend server and to clean up some frontend design to make it eye catching. Lastly, finalize the correlation algorithm running on the server.
+
+[jekyll-docs]: https://jekyllrb.com/docs/home
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-talk]: https://talk.jekyllrb.com/

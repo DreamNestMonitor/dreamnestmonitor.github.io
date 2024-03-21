@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Post 9: Progress as of 2024-01-22"
+date:   2024-01-22 01:17:33 -0400
+categories: jekyll update
+---
+
+## Meeting 1 with Professor Kennings and Professor Khamesee
+Because a member was sick and not on campus, we held an online meeting at a later date on the 22nd of January. This meeting was just used to remind the professors what our project was about, the main components and the problem it was solving. Because it was online, we did not show anything we had at this time.
+
+[jekyll-docs]: https://jekyllrb.com/docs/home
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-talk]: https://talk.jekyllrb.com/

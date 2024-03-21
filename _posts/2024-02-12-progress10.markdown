@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Post 10: Progress as of 2024-02-12"
+date:   2024-02-12 01:17:33 -0400
+categories: jekyll update
+---
+
+## Meeting 2 with Professor Kennings and Professor Khamesee
+The second meeting was focused on demoing the proof of concept to the professors and not really showcasing the final project. In this demo, we successfully showed data visualizations of some generated data dummy about environment conditions like temperature, noise and light as well as dummy data generated about sleep quality and heartbeat. We also briefly talked about how our correlation analysis (which was not yet implemented) would work on the server.
+
+We also brought in our current version of the mechanical design and the professor was able to give some advice about its design. We also addressed the problem of whether this project would benefit more if the device ran on battery for portability or just on a power plug. We ended up going with the design of just plugging in the device to power rather than running on battery as problems with recharging the battery and recovering from possible lost data or failure to capture data due to power issues would add extra complexity to the project. 
+
+[jekyll-docs]: https://jekyllrb.com/docs/home
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-talk]: https://talk.jekyllrb.com/

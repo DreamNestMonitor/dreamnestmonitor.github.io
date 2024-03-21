@@ -1,0 +1,28 @@
+---
+layout: post
+title:  "Post 8: Progress as of 2024-01-15"
+date:   2024-01-15 01:17:33 -0400
+categories: jekyll update
+---
+
+In January, there was not a lot of collarboation since individual components where being developed and members worked on their assigned tasks.
+
+## Mechanical & Electrical
+TODO[frank]
+
+## Software
+January was spend setting up all the software architecture to get started on the project.
+- The database was installed and configured. The appropriate user account was created with read and write credentials.
+- The server/backend was configured using Java and the Spring Boot framework and initial connections to the local database were made.
+- The client was configured using JavaScript and the React framework.
+- A connection was established between the server to the database and from the server to the client and to get started, dummy data were created to get started with the client and using a chart library to start working on basic visualizations of the dummy data stored on the local server.
+
+## Preparing fo the upcoming demo meeting
+Some major TODOs for the upcoming demo meeting on February 12th were:
+- Make sure to show visualizations of the data
+- Show a first copy of the mechnical components
+- Bring in the arduino and raspberry pi and explain how they would collect data and post to the server
+
+[jekyll-docs]: https://jekyllrb.com/docs/home
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-talk]: https://talk.jekyllrb.com/

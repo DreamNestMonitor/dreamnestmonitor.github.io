@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "Post 12: Progress as of 2024-03-14"
+date:   2024-03-14 01:17:33 -0400
+categories: jekyll update
+---
+
+## Meeting 3 with Professor Kennings and Professor Khamesee
+This was our final meeting and chance to demo the project. Unfortunately, we didn't have 100% of our working project to demo as a bit more work was needed. In this meeting, we were able to show the entire data flow from the arduino to the raspberry pi running a system service sending requests to the backend which stored the data into its mysql database and by refreshing the client, we would be able to see the data. The database, server and client were all launched on the internet and were not just running locally anymore. We also brought our second iteration of the mechanical design and where everything would fit into the design.
+
+Professor Kennings and Professor Khamesee was also able to give some useful final advice ahead of the symposium which were the following:
+- Because our raspberry pi would be constantly running, the pi would heat up so make sure that the mechanical model is able to deal with this e.g., by introducing more airway, a fan.
+- Make sure that more than anything that the frontend application is able to easily and concisely give correlation results for each day since people rarely have time at the symposium to look too much into the details. 
+- Bring the FitBit to the symposium and show how it works (we did not bring the FitBit in this demo although it is part of the project for sleep quality readings)
+- Use web sockets so that you can see the frontend update the charts live with the incoming data.
+
+[jekyll-docs]: https://jekyllrb.com/docs/home
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-talk]: https://talk.jekyllrb.com/
