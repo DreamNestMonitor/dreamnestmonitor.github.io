@@ -6,7 +6,16 @@ categories: jekyll update
 ---
 
 ## Mechanical & Electrical 
-TODO[frank]
+The circuit is completed with sensors, arduino uno and all other electrical components.
+
+Tested and tuned all types of sensors with arduino IDE.
+Had to make some re-purchase of sensors as some sensors having bad performance and does not meet the requirments and purpose of this project.
+
+Remove the idea of using batteries to power the system, as power could cause the system to overheat and re-charging batteries reduced the convenience. Use power plug to replace batteries for the power input.
+
+Re-designed new mechanical prototype based on the the change of sensors and power input.
+
+Whats left to do are re-testing and tune the new sensors.
 
 ## Software
 At this point, the applications were deployed instead of running everything on the local device. The deployment was done using the Railway application to deploy a MySQL database, the Java Spring Boot backend and the JavaScript React frontend.

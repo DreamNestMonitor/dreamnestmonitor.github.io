@@ -8,7 +8,10 @@ categories: jekyll update
 In January, there was not a lot of collarboation since individual components where being developed and members worked on their assigned tasks.
 
 ## Mechanical & Electrical
-TODO[frank]
+January was spending most time in basic design of the prototype of mechanical. 
+
+-Purchased and received electrical components
+-Created solidworks file for the mechanical prototype based on the dimensions of electrical components
 
 ## Software
 January was spend setting up all the software architecture to get started on the project.
